@@ -1,5 +1,5 @@
 # todoList
-It's a very simple project designed using HTML5,CSS3,Bootstrap,EJS and it's working is done using JavaScript.
+The project is designed using HTML5,CSS3,Bootstrap,EJS and it's working is done using JavaScript.
 
 ### Skills Used
 - HTML
